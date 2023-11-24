@@ -13,3 +13,16 @@
 
 提示：
 你可以使用C++11的std::thread, std::mutex, std::condition_variable来完成这个练习。
+
+--- 
+
+### 作业提交方法：
+
+- 第一步：创建新issue
+![new_issue](https://github.com/Adam-QLUT/cpp_mutex_homework/assets/133772875/b354206e-f117-4098-8ff9-5fa4da087593)
+
+- 第二步：填写作业内容，格式要求如下图
+![Screenshot_20231124_162506](https://github.com/Adam-QLUT/cpp_mutex_homework/assets/133772875/0f82f3c3-3a27-48de-aad6-cc6657486ab1)
+
+- 第三步：提交
+点击绿色`Submit New issue`按钮提交
